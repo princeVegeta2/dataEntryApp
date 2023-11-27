@@ -3,6 +3,10 @@ bin/
 obj/
 out/
 
+# Exclude the .vs folder
+.vs/
+
+
 # Ignore NuGet Packages
 packages/
 
