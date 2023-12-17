@@ -3,7 +3,6 @@ bin/
 obj/
 out/
 
-# Check
 
 # Exclude the .vs folder
 .vs/
